@@ -1,0 +1,39 @@
+body {
+  background-color:black;
+  background-size: auto;
+}
+body {
+  background-image: url(https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/72478679_10156559630851245_7678727189612724224_n.jpg?_nc_cat=100&_nc_oc=AQli_l53z4OB-dYQWYT85fxwb2e4kyV1WPnQgYTwkg5nK8UTXwEzahUJbzwvMpqStxM&_nc_ht=scontent-ort2-2.xx&oh=9f464fd635967e21d792cc77c817c10d&oe=5E53A5FB);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+h1 {
+  font-size: 3.5em;
+  font-family: Centhinydemo;
+  color:White;
+  position:relative;
+  left:20%;
+}
+h2 {
+  font-size: 1.5em;
+  font-family: andasia;
+  color:white;
+}
+h3 {
+  font-size: 2em;
+  font-family: Centhinydemo;
+  font-weight:900;
+  color:White;
+  position: relative;
+  left:22%;
+}
+footer {
+  color:white;
+  font-family: Centhinydemo;
+  position:absolute;
+  left:65%;
+  bottom:5%;
+  font-size:2em;
+}
